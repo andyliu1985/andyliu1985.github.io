@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.673add0d.chunk.js",
-  "main.js.map": "/static/js/main.673add0d.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-  "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-  "static/js/2.387ff043.chunk.js": "/static/js/2.387ff043.chunk.js",
-  "static/js/2.387ff043.chunk.js.map": "/static/js/2.387ff043.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.4806cdc84665534e67f4b075d03330b4.js": "/precache-manifest.4806cdc84665534e67f4b075d03330b4.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/clock/static/js/main.d122f857.chunk.js",
+  "main.js.map": "/clock/static/js/main.d122f857.chunk.js.map",
+  "runtime~main.js": "/clock/static/js/runtime~main.a9620c0a.js",
+  "runtime~main.js.map": "/clock/static/js/runtime~main.a9620c0a.js.map",
+  "static/js/2.387ff043.chunk.js": "/clock/static/js/2.387ff043.chunk.js",
+  "static/js/2.387ff043.chunk.js.map": "/clock/static/js/2.387ff043.chunk.js.map",
+  "index.html": "/clock/index.html",
+  "precache-manifest.c92e64741d28e90fae105d67db3ce08c.js": "/clock/precache-manifest.c92e64741d28e90fae105d67db3ce08c.js",
+  "service-worker.js": "/clock/service-worker.js"
 }
